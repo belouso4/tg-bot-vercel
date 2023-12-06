@@ -1,3 +1,4 @@
+require('dotenv').config();
 import { Telegraf } from 'telegraf';
 
 import { about } from './commands';
